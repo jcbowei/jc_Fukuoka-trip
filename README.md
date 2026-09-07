@@ -1,1 +1,1 @@
-# jc_tokyo-trip
+# jc_Fukuoka-trip
